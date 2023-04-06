@@ -9,4 +9,4 @@ To run ReSiDe-S
 python ReSiDe-S.py
 ```
 
-Code for ReSiDe-M and data for MRXCAT and perfusion will be uploaded later
+Code for ReSiDe-M will be uploaded later
